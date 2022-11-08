@@ -33,7 +33,7 @@ public class Main {
         System.out.println("What year are you born?");
         year=scan.nextInt();
 
-        //Here is the java template for Strings, System.out.printLn(String.format("bla bla %s.",variable));
+        //Here is the java template for Strings, System.out.printf("bla bla %s.%n",variable);
         //In your string, the "%s" means a variable is used, and it's important that you respect the order
         //of the variables you put at the end of the template. Below my variables are "month, day, year"
         //which means that my first "%s" will have "month" as a value, my second will have "day" as a value
