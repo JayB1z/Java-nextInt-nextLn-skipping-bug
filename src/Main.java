@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+
         //Set your new Scanner(System.in) to scan the inputs you are going to write into your program.
         Scanner scan= new Scanner(System.in);
 
